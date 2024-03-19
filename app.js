@@ -13,7 +13,7 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello from Render!</title>
+    <title><a href="https://github.com/ARBUCHELI/DEPLOYING-WITH-RENDER">HOW TO DEPLOY AND APPLICATION WITH RENDER!</a></title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
