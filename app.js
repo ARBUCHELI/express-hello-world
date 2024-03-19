@@ -40,6 +40,7 @@ const html = `
       }
       body {
         background: #daebe8;
+        text-align: center;
       }
       section {
         border-radius: 1em;
@@ -54,7 +55,7 @@ const html = `
   </head>
   <body>
     <section>
-      <a href="https://github.com/ARBUCHELI/DEPLOYING-WITH-RENDER" style="text-align: center;">HOW TO DEPLOY AND APPLICATION WITH RENDER!</a>
+      <a href="https://github.com/ARBUCHELI/DEPLOYING-WITH-RENDER" style="text-align: center;" target="_blank">HOW TO DEPLOY AND APPLICATION WITH RENDER!</a>
     </section>
   </body>
 </html>
