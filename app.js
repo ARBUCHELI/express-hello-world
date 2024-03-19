@@ -55,7 +55,7 @@ const html = `
   </head>
   <body>
     <section>
-      <a href="https://github.com/ARBUCHELI/DEPLOYING-WITH-RENDER" style="text-align: center;" target="_blank">HOW TO DEPLOY AND APPLICATION WITH RENDER!</a>
+      <a href="https://github.com/ARBUCHELI/DEPLOYING-WITH-RENDER" style="text-align: center;" target="_blank">HOW TO DEPLOY A WEB APP WITH RENDER!</a>
     </section>
   </body>
 </html>
